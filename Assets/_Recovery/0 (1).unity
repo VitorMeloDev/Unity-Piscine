@@ -429,12 +429,10 @@ MonoBehaviour:
   - {fileID: 1401108283}
   - {fileID: 129781122}
   - {fileID: 1615643815}
-  bottomTransform: {fileID: 1460330516}
   cubePrefabs:
   - {fileID: 230903641611393687, guid: 5eb5e6cbf0cb37446ae999335b26e801, type: 3}
   - {fileID: 4339594302253093050, guid: 91f967ab9c2e05740911efc9fc4e9bb6, type: 3}
   - {fileID: 1483624210362360152, guid: 6f4bbf9f13bf97047b8fe04494006e84, type: 3}
-  cubes: []
 --- !u!1 &1401108282
 GameObject:
   m_ObjectHideFlags: 0
@@ -621,7 +619,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -10
+  m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 0f6a30f5869fc4a74af68306d4f18133, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -795,7 +793,7 @@ Transform:
   m_GameObject: {fileID: 1760744505}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

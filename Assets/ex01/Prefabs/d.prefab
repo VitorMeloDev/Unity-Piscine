@@ -104,3 +104,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f56805a6dd0c80419562d3dfec2a945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Cube
+  speed: 0
+  key: 68
